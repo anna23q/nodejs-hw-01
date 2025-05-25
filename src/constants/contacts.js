@@ -12,4 +12,3 @@ const dirName = path.dirname(fileName);
 export const PATH_DB = path.join(dirName, '../db/db.json');
 
 console.log(PATH_DB);
-
